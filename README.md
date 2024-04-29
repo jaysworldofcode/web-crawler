@@ -1,4 +1,4 @@
-# TEST - WEB CRAWLER
+# WEB CRAWLER
 
 A web crawling test project to calculate and output some measurements of the crawled pages (something like page-rank)
 
@@ -8,7 +8,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install test - 
 
 1. Clone the repo
    ```sh
-   git clone https://bitbucket.org/ak-launch/test-web-crawler/src
+   git clone <repository-url>
    ```
 3. Install pip packages
    ```sh
